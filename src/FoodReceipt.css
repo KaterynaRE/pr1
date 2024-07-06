@@ -1,0 +1,71 @@
+.divFood{
+    display: flex;
+    flex-direction: column;
+    width: 90vw;
+    height: auto;
+    padding-bottom: 140px;
+}
+.imgFood{
+    position: relative;
+    width:  100vw;
+    height: auto;
+    text-align: center;
+}
+.h2Ingridienty{
+   position: absolute;
+    left: 10px;
+    top: 2100px;
+    padding-bottom: 5px;
+    margin-bottom: 5px;
+}
+.ulFood{
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    text-align: left;
+    position: relative;
+    top: 60px;
+    padding-bottom: 20px;
+    margin-bottom: 10px;
+}
+#h2id{
+    text-align: left;
+    margin: 5px;
+    position: relative;
+    top: 30px;
+    left: 6px;
+    padding-bottom: 40px;
+}
+ol{
+    top: 20px;
+    padding-bottom: 30px;
+}
+#li1{
+    text-align: justify;
+}
+
+#imgOl1 {
+    position: relative;
+    left: 30%;
+    margin: 5px;
+    padding: 5px;
+}
+#li2{
+    text-align: justify;
+}
+#imgOl2{
+    position: absolute;
+    top: 2830px;
+    left: 395px;
+}
+#li3{
+    position: absolute;
+    top: 3200px;
+    text-align: justify;
+}
+#imgOl3{
+    position: absolute;
+    top: 69px;
+    left: 360px;
+    padding-bottom: 30px;
+}

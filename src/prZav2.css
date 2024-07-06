@@ -1,0 +1,66 @@
+
+.DivSkill {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    width: 90vw;
+    height: auto;
+    padding-bottom: 40px;
+}
+
+.imgS {
+    margin-top: 40px;
+    position: relative;
+    width: min-content;
+    left: 80px;
+}
+
+.skilh1 {
+    position: relative;
+    left: -469px;
+    margin-left: 10px;
+    padding-left: 10px;
+}
+
+.h2SkladG {
+    position: absolute;
+    font-weight: bold;
+    top: 1200px;
+    left: 86px;
+}
+
+.ulSkill {
+    list-style-type: none;
+    display: flex;
+    flex-wrap: nowrap;
+    flex-direction: column;
+}
+
+.ulSkill li {
+    text-align: left;
+    position: relative;
+    left: 44px;
+    top: 40px;
+    margin: 5px;
+}
+
+.h2Albomy {
+    position: absolute;
+    top: 1160px;
+    left: 665px;
+}
+
+.ulSkillAlbom {
+    list-style-type: none;
+    display: flex;
+    flex-wrap: nowrap;
+    flex-direction: column;
+}
+
+.ulSkillAlbom li {
+    text-align: left;
+    position: relative;
+    left: 620px;
+    margin: 5px;
+    top: -135px;
+}

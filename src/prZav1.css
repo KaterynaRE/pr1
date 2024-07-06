@@ -1,0 +1,25 @@
+.book-recency-container {
+    padding: 20px;
+    width: 90vw;
+    height: auto;
+}
+p{
+    position: absolute;
+    font-size: 20px;
+    font-weight: bold;
+    left: 2%;
+}
+.book-recency-reviews{
+    position: relative;
+}
+.book-recency-review-item{
+    position: relative;
+    top: 50px;
+    text-align: justify;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+.hr1{
+    position: relative;
+    top: 50px;
+}
